@@ -17,6 +17,9 @@ Your challenge is to build the back end for an e-commerce site. You’ll take a 
 
   ## Usage 
   
+  ![Screen Shot 2022-06-26 at 10 33 47 PM](https://user-images.githubusercontent.com/52983305/175855118-33ab94b5-29fa-4b14-ab45-5f065c646cc6.png)
+
+  
   ## Recording Location
 
    [Link to Video Demo](https://drive.google.com/file/d/1kYw1MjiqH13fZ5XwZl25OfmuCLnYyO3p/view)
